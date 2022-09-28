@@ -1,28 +1,35 @@
 # Election_Analysis
 
-##Overview of Election Audit: 
+## Overview of Election Audit
+The purpose of the project is to give a Colorado board of elections employee, Tom, an audit of a recent local elections. 
 
-The purpose of the election audit is to give a Colorado board of elections employee, Tom, a list the total number of votes cast, the total number of votes for each candidate, the percentage of votes for each candidate and the winner of the election based on popular votes. 
+1. Calculate total number of votes cast
+2. Calculate total number of votes for each candidate
+3. Calculate percentage of votes for each candidate
+4. Determine the winner of the election based on popular votes. 
 
-#Election-Audit Results: 
+## Resources
+-Data Source: election_results.csv
+-Software: Python 3.9.12, Visual Code, 1.38.1
 
-Votes Cast in Congressional Election: Total Votes: 369,711
+## Summary
+The anaylsis of the elections show that:
+-There were 369,711 votes cast in the election across three counties. 
+-The counties were:
+  -Jefferson: 10.5%
+  -Denver: 82.8%
+  -Araphahoe: 6.7%
+-The candidates were:
+  -Charles Casper Stockhom
+   -Diana DeGette
+   -Raymon Anthony Doane
+ -The candidates results were:
+   -Charles Casper Stockham: 23.0% (85,213)
+   -Diana DeGette: 73.8% (272,892)
+   -Raymon Anthony Doane: 3.1% (11,606)
+ -The winner of the elections was:
+  -Diana DeGetter who received 73.8% of the vote and 272,892 number of votes.
 
-County Vote:
--Jefferon county 10.5%
--Denver 82.8%
--Arapahoe at 6.7%
-
-Largest County Turnout: Denver
-
-County Vote:
-Charles Casper Stockham: 23.0% (85,213)
-Diana DeGette: 73.8% (272,892)
-Raymon Anthony Doane: 3.1% (11,606)
-
-Winner: Diana DeGette
-Winning Vote Count: 272,892
-Winning Percentage: 73.8%
-
-#Election-Audit Summary: In a summary statement, provide a business proposal to the election commission on how this script can be used—with some modifications—for any election. Give at least two examples of how this script can be modified to be used for other elections.
+## Challenge Summary: 
+In a summary statement, provide a business proposal to the election commission on how this script can be used—with some modifications—for any election. Give at least two examples of how this script can be modified to be used for other elections.
 
