@@ -31,5 +31,4 @@ The anaylsis of the elections show that:
   -Diana DeGetter who received 73.8% of the vote and 272,892 number of votes.
 
 ## Challenge Summary: 
-In a summary statement, provide a business proposal to the election commission on how this script can be used—with some modifications—for any election. Give at least two examples of how this script can be modified to be used for other elections.
-
+This challenge script can be extremely valuable to many elections and companies. The code is clean and conconcise. I explained every code prior to implementing the code to give readers an idea of what the code actually does. We can modify the code to help with analyzing customer votes for new features as well as election votes for new candidates. 
